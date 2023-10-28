@@ -1,4 +1,4 @@
-# Web Development Skill Sets
+# Web Development Skill Sets - Frontend⭐ 🎯
 
 ## Core Web Technologies:
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
