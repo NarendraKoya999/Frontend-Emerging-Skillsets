@@ -1,4 +1,4 @@
-# Frontend Developer Skill Sets🤹🏼‍♀️ and Keywords🔤
+# Frontend Developer🎯 Skill Sets🤹🏼‍♀️ and Keywords🔤
 
 ## Core Technologies:
 
