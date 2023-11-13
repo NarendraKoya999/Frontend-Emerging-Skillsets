@@ -25,7 +25,7 @@
 - **Browser-specific CSS:** Handling rendering differences.
 - **Polyfills:** Ensuring modern features work in older browsers.
 
-## JavaScript Frameworks:
+## JavaScript Frameworks / Libraries:
 
 ### React
 - **React Native:** Building mobile apps with React.
