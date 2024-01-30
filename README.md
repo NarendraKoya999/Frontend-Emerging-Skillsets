@@ -30,7 +30,7 @@
 ### React
 - **React Native:** Building mobile apps with React.
 - **Next.js:** Server-side rendering for React applications.
-- **Redux:** State management for React.
+- **Redux, React-Redux, and Redux-Toolkit:** State management for React.
 - **React Router:** Navigational components for React apps.
 - **React Helmet:** Managing document head in React apps.
 
@@ -66,7 +66,7 @@
 - **Fast 3kB alternative to React:** A lightweight React alternative.
 
 ### Inferno
-- **High performance, React-like library:** A library for building fast web interfaces.
+- **High-performance, React-like library:** A library for building fast web interfaces.
 
 ### Stencil
 - **Web Components compiler:** Creating reusable web components.
@@ -270,7 +270,7 @@
 - **Ghost:** A CMS designed for blogs.
 - **Prismic:** A headless CMS with a content API.
 
-### e-commerce Platforms Integration
+### E-commerce Platforms Integration
 
 - **Shopify Storefront API:** Customizing Shopify stores.
 - **WooCommerce REST API:** Extending WooCommerce.
@@ -280,7 +280,7 @@
 
 - **TensorFlow.js:** Machine learning library for JavaScript.
 - **ML.js:** Machine learning tools for JavaScript.
-- **scikit-learn:** A Python library for machine learning.
+- **sci-kit-learn:** A Python library for machine learning.
 
 ### Cloud-Native Tools
 
